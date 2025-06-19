@@ -1,3 +1,5 @@
+# Corptools Filings Game
+
 ## Live Demo
 See the live demo here: https://corporatetools.github.io/filings-game/
 
@@ -29,4 +31,3 @@ npm run deploy
 ```
 
 For more information on deployment, see: https://www.npmjs.com/package/gh-pages
-# filings-game
